@@ -10,7 +10,7 @@ A simple command-line interface grocery store application built with Dart.
 - **Discount Codes**: Apply coupons for savings.
 
 ## Getting Started
-gi
+
 ### Prerequisites
 
 - [Dart SDK](https://dart.dev/get-dart) installed on your machine.
